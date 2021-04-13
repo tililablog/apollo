@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://demo.gethugothemes.com/apollo/"
 title = "Apollo | Minimal Blog Theme"
 theme = "apollo-hugo"
 # post pagination
@@ -27,9 +27,7 @@ unsafe= true
 
 # JS Plugins
 [[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/fontawesome.min.js"
-[[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/brands.min.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
 
 ###################### Navigation ###########################
 
