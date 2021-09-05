@@ -27,14 +27,14 @@
 
 ---
 ## Features
-- Open graph meta tag
-- Twitter card meta tag
 - Google analytics  support
 - CSS and Js bundle with hugo pipe
 - Netlify settings predefine
 - Forestry cms pre-configured
 - Color and fonts variable in config file
 - Google page speed optimized ( 98% )
+- Open graph meta tag
+- Twitter card meta tag
 
 
 ## Local development
