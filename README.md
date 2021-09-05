@@ -82,7 +82,7 @@ issue](https://github.com/gethugothemes/apollo-hugo/issues).
 
 <!-- ## Apollo Hugo theme Powered Websites
 
-View all the websites powered by apollo Hugo theme [here](https://github.com/gethugothemes/apollo-hugo/wiki/All-apollo-hugo-theme-Powered-Websites). Want to submit your own website powered by apollo Hugo theme? You can submit it [here](https://github.com/gethugothemes/apollo-hugo/discussions). -->
+View all the websites powered by apollo Hugo theme [here](https://github.com/gethugothemes/apollo-hugo/wiki/All-apollo-hugo-theme-Powered-Websites). Want to submit your own website powered by apollo Hugo theme? You can submit it [here](https://github.com/gethugothemes/apollo-hugo/discussions/3). -->
 
 <!-- licence -->
 ## License
