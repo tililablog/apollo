@@ -61,6 +61,7 @@ repository in Forestry](https://app.forestry.io/quick-start?repo=gethugothemes/a
 you will be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
+
 ## Deployment and hosting
 
 [![Deploy to
@@ -77,7 +78,7 @@ Build your website with **Apollo Hugo** theme by following these easy steps (No 
 We use GitHub Issues as the official bug tracker for the apollo Template. Please Search [existing
 issues](https://github.com/gethugothemes/apollo-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/gethugothemes/apollo-hugo/issues/new).
+issue](https://github.com/gethugothemes/apollo-hugo/issues).
 
 <!-- ## Apollo Hugo theme Powered Websites
 
@@ -95,9 +96,8 @@ share those images.
 
 <!-- resources -->
 ## Special Thanks
-- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-- [Jquery](https://jquery.com/download/)
-- [Web Font Loader](https://github.com/typekit/webfontloader)
+- [Bootstrap](https://getbootstrap.com)
+- [Font Awesome Icons](https://fontawesome.com)
 - [Google Fonts](http://fonts.google.com/)
 - [All Contributors](https://github.com/gethugothemes/apollo-hugo/graphs/contributors)
 
@@ -108,6 +108,6 @@ We are available for **Hiring** for your next HUGO project. Please, check our
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Liva](https://demo.gethugothemes.com/thumbnails/liva.webp)](https://gethugothemes.com/products/Liva/) | [![kross](https://demo.gethugothemes.com/thumbnails/kross.webp)](https://gethugothemes.com/products/Kross-hugo/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Liva](https://demo.gethugothemes.com/thumbnails/liva.webp)](https://gethugothemes.com/products/Liva/) | [![kross](https://demo.gethugothemes.com/thumbnails/kross.webp)](https://gethugothemes.com/products/Kross/) |
 |:---:|:---:|:---:|
 | **Premium Theme Bundle (40+)** | **Liva** | **Kross** |
