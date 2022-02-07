@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/apollo/"
+baseURL = "https://demo.gethugothemes.com/apollo/examplesite/"
 title = "Apollo | Minimal Blog Theme"
 theme = "apollo-hugo"
 # post pagination
@@ -34,22 +34,22 @@ link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js
 # main menu
 [[menu.main]]
 name = "About"
-url = "about"
+url = "about/"
 weight = 1
   
 [[menu.main]]
 name = "Elemetns"
-url = "elements"
+url = "elements/"
 weight = 2
   
 [[menu.main]]
 name = "Terms & Conditions"
-url = "terms-conditions"
+url = "terms-conditions/"
 weight = 3
   
 [[menu.main]]
 name = "Contact"
-url = "contact"
+url = "contact/"
 weight = 4
 
 #################### default parameters ############################
