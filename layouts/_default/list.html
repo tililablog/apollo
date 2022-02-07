@@ -24,7 +24,7 @@
           {{ range $name, $items := site.Taxonomies.categories }}
           {{ $category:= add (add (`categories/` | absLangURL) $name ) "/" }}
           <li class="list-inline-item"><a class="{{ if eq $category $url }}active{{ end }}"
-              href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
+              href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}/">{{ $name | humanize }}</a></li>
           {{ end }}
         </ul>
         {{ $paginator:= .Paginate .Data.Pages}}
