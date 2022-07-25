@@ -65,10 +65,6 @@ icon = "fab fa-instagram"
 link = "https://instagram/izzatilila"
 title = "instagram"
 [[params.social]]
-icon = "fab fa-github"
-link = "#"
-title = "github"
-[[params.social]]
 icon = "fab fa-linkedin"
-link = "#"
+link = "https://linkedin.com/izzatilila"
 title = "linkedin"
