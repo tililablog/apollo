@@ -53,6 +53,10 @@ text_color_dark = "#000"
 text_color_light = "#999"
 white = "#fff"
 [[params.social]]
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/channel/UCz-lgnYzmetoHgV8FrcSScQ"
+title = "youtube"
+[[params.social]]
 icon = "fab fa-tiktok"
 link = "https://tiktok.com/izzatilila"
 title = "tiktok"
