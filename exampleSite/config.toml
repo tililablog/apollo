@@ -39,6 +39,8 @@ main_section = "post"
 enable = false
 expire_days = 2
 [[params.plugins.js]]
+link = "https://unpkg.com/eslint-plugin-rtl@0.1.1/lib/index.js"
+[[params.plugins.js]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
 [params.variables]
 black = "#000"
