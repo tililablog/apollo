@@ -53,9 +53,9 @@ text_color_dark = "#000"
 text_color_light = "#999"
 white = "#fff"
 [[params.social]]
-icon = "fab fa-pinterest"
-link = "https://pinterest.com/izzatilila"
-title = "pinterest"
+icon = "fab fa-tiktok"
+link = "https://tiktok.com/izzatilila"
+title = "tiktok"
 [[params.social]]
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/izzatilila"
@@ -68,6 +68,10 @@ title = "twitter"
 icon = "fab fa-instagram"
 link = "https://instagram/izzatilila"
 title = "instagram"
+[[params.social]]
+icon = "fab fa-pinterest"
+link = "https://pinterest.com/izzatilila"
+title = "pinterest"
 [[params.social]]
 icon = "fab fa-linkedin"
 link = "https://linkedin.com/izzatilila"
