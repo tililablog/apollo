@@ -58,7 +58,7 @@ link = "https://www.facebook.com/izzatilila"
 title = "facebook"
 [[params.social]]
 icon = "fab fa-twitter"
-link = "#"
+link = "https://twitter.com/izzatilila"
 title = "twitter"
 [[params.social]]
 icon = "fab fa-instagram"
