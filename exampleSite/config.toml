@@ -26,7 +26,7 @@ weight = 4
 [outputs]
 home = ["HTML", "RSS"]
 [params]
-author = "Themefisher"
+author = "Izza Tilila"
 banner_content = "كاتبة وصانعة محتوى و شخصية عامة. يمكنني إلقاء نظرة على حياتي والحصول على قصة جيدة للخروج منها. إنها صورة شخص يحاول معرفة الأشياء."
 copyright = "        Izzatilila.com © 2022 | Designed & Developed By [Akselinc](https://akselinc.com/)"
 custom_script = ""
