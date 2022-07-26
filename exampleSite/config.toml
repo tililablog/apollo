@@ -3,7 +3,7 @@ disqusShortname = ""
 googleAnalytics = ""
 paginate = "5"
 summaryLength = "20"
-theme = "apollo-hugo"
+theme = "apollo"
 title = "Izza Tilila"
 [markup.goldmark.renderer]
 unsafe = true
