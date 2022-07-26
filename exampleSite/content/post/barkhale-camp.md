@@ -1,0 +1,9 @@
++++
+categories = ["news"]
+date = 2022-07-25T23:00:00Z
+description = "Barkhale Camp is a causewayed enclosure, a Neolithic archaeological site on Bignor Hill, on the South Downs of West Sussex, England."
+image = "/images/blog/blog-4.webp"
+title = "Barkhale Camp"
+
++++
+[**Barkhale Camp**](https://en.wikipedia.org/wiki/Barkhale_Camp "Barkhale Camp") is a [causewayed enclosure](https://en.wikipedia.org/wiki/Causewayed_enclosure "Causewayed enclosure"), a [Neolithic](https://en.wikipedia.org/wiki/Neolithic_British_Isles "Neolithic British Isles") archaeological site on [Bignor Hill](https://en.wikipedia.org/wiki/Bignor_Hill "Bignor Hill"), on the [South Downs](https://en.wikipedia.org/wiki/South_Downs "South Downs") of [West Sussex](https://en.wikipedia.org/wiki/West_Sussex "West Sussex"), England. English causewayed enclosures, built from around 3700 BC until at least 3500 BC, are enclosed with ditches interrupted by gaps, or [causeways](https://en.wikipedia.org/wiki/Causeway "Causeway"). They may have been settlements, meeting places, or ritual sites. Barkhale Camp was identified by [John Ryle](https://en.wikipedia.org/wiki/John_Ryle_(physician) "John Ryle (physician)") in 1929 and surveyed the following year by E. Cecil Curwen, who listed it as a possible Neolithic site. A small trench was dug in 1930 by Ryle, and more extensive excavation was undertaken by [Veronica Seton-Williams](https://en.wikipedia.org/wiki/Veronica_Seton-Williams "Veronica Seton-Williams") between 1958 and 1961, which found a characteristically Neolithic assemblage of flints. Peter Leach conducted another excavation in 1978, examining several mounds and attempting to find the line of the ditch and bank along the southern boundary. No material suitable for [radiocarbon dating](https://en.wikipedia.org/wiki/Radiocarbon_dating "Radiocarbon dating") was recovered, but Leach suggested that the site was constructed in the earlier Neolithic, between 4000 BC and 3300 BC.
