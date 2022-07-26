@@ -17,7 +17,7 @@
       <div class="col-lg-8 mx-auto">
         <ul class="list-inline border-bottom category-list">
           {{ $url := .Permalink }}
-          <li class="list-inline-item"><a class="{{if .IsHome}}active{{end}}" href="{{site.BaseURL}}">New</a></li>
+          <li class="list-inline-item"><a class="{{if .IsHome}}active{{end}}" href="{{site.BaseURL}}">جديد</a></li>
           {{ range $name, $items := site.Taxonomies.categories }}
           {{ $category:= add (add (`categories/` | absLangURL) $name ) "/" }}
           <li class="list-inline-item"><a class="{{ if eq $category $url }}active{{ end }}"
