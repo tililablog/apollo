@@ -26,7 +26,7 @@ weight = 4
 [outputs]
 home = ["HTML", "RSS"]
 [params]
-author = "https://fontmeme.com/permalink/220726/087d5205b8311da65f58e30d93c7dd91.png"
+author = "إيزا تيليلى"
 banner_content = "كاتبة وصانعة محتوى و شخصية عامة. يمكنني إلقاء نظرة على حياتي والحصول على قصة جيدة للخروج منها. إنها صورة شخص يحاول معرفة الأشياء."
 copyright = "        Izzatilila.com © 2022 | Designed & Developed By [Akselinc](https://akselinc.com/)"
 custom_script = ""
