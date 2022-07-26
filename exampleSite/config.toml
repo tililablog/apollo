@@ -4,7 +4,7 @@ googleAnalytics = ""
 paginate = "5"
 summaryLength = "20"
 theme = "apollo"
-title = "Izza Tilila"
+title = "إيزا تيليلى"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
