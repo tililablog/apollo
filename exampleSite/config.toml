@@ -13,7 +13,7 @@ url = "annoncer/"
 weight = 3
 [[menu.main]]
 name = "الإتصال"
-url = "contact/"
+url = "الإتصال/"
 weight = 5
 [[menu.main]]
 name = "ادعمني"
