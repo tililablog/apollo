@@ -1,9 +1,10 @@
 ---
-title: "About"
-description: "this is meta description"
-draft: false
----
+title: About
+description: this is meta description
 
-{{< center >}}
+---
+{{< rtl >}}
+
 # About Page Is Coming Soon . . .
-{{</ center >}}
+
+{{</ rtl >}}
