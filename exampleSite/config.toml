@@ -9,7 +9,7 @@ title = "إيزا تيليلى"
 unsafe = true
 [[menu.main]]
 name = "كاتبة"
-url = "Auteure/"
+url = "/post/الكاتبة/"
 weight = 1
 [[menu.main]]
 name = "أعلن على موقعي"
