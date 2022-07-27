@@ -4,7 +4,7 @@ googleAnalytics = "<!-- Global site tag (gtag.js) - Google Analytics --> <script
 paginate = "5"
 summaryLength = "20"
 theme = "apollo"
-title = "إيزا تيليلى"
+title = ".إيزا تيليلى : كاتبة وصانعة محتوى و شخصية عامة"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
