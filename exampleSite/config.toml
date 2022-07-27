@@ -12,8 +12,8 @@ name = "كاتبة"
 url = "Auteure/"
 weight = 1
 [[menu.main]]
-name = "Elemetns"
-url = "elements/"
+name = "أعلن على موقعي"
+url = "annoncer/"
 weight = 2
 [[menu.main]]
 name = "Terms & Conditions"
