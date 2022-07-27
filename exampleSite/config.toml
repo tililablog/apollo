@@ -16,8 +16,8 @@ name = "أعلن على موقعي"
 url = "annoncer/"
 weight = 2
 [[menu.main]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
+name = "أنشر على موقعي"
+url = "publier/"
 weight = 3
 [[menu.main]]
 name = "Contact"
