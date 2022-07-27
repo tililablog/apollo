@@ -8,25 +8,25 @@ title = "إيزا تيليلى"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "كاتبة"
-url = "/post/الكاتبة/"
-weight = 1
-[[menu.main]]
 name = "أعلن على موقعي"
 url = "annoncer/"
-weight = 2
-[[menu.main]]
-name = "أنشر على موقعي"
-url = "publier/"
 weight = 3
-[[menu.main]]
-name = "ادعمني"
-url = "soutenir/"
-weight = ""
 [[menu.main]]
 name = "الإتصال"
 url = "contact/"
+weight = 5
+[[menu.main]]
+name = "ادعمني"
+url = "ادعمني/"
+weight = 1
+[[menu.main]]
+name = "أنشر على موقعي"
+url = "publier/"
 weight = 4
+[[menu.main]]
+name = "كاتبة"
+url = "الكاتبة/"
+weight = 2
 [outputs]
 home = ["HTML", "RSS"]
 [params]
