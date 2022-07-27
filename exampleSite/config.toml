@@ -1,6 +1,6 @@
 baseURL = "https://tililablog.netlify.app/"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BSMQ78J9S5\"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-BSMQ78J9S5'); </script>"
 paginate = "5"
 summaryLength = "20"
 theme = "apollo"
