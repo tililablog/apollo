@@ -13,7 +13,7 @@
             <a class="post-meta" href="{{`categories/` | absURL}}{{. | lower | urlize}}">{{.| humanize}}</a>
             {{ end }}
             <h3 class="my-3">{{.Title}}</h3>
-            <span class="post-date">{{.PublishDate.Format "02 Jan, 2006"}}</span>
+            <span class="post-date">{{.PublishDate.Format "02 يناير, 2006 "}}</span>
           </div>
           <img loading="lazy" class="img-fluid mb-4" src="{{ .Params.image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.image | absURL }}'" alt="{{.Title}}">
           <div class="card-body px-0">
