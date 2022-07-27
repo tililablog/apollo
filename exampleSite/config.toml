@@ -20,7 +20,7 @@ name = "أنشر على موقعي"
 url = "publier/"
 weight = 3
 [[menu.main]]
-name = "Contact"
+name = "الإتصال"
 url = "contact/"
 weight = 4
 [outputs]
