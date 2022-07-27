@@ -35,7 +35,7 @@ banner_content = "كاتبة وصانعة محتوى و شخصية عامة. ي�
 copyright = "Izzatilila.com © 2022 | Designed & Developed By [Akselinc](https://akselinc.com/)"
 custom_script = ""
 description = "كاتبة وصانعة محتوى و شخصية عامة. يمكنني إلقاء نظرة على حياتي والحصول على قصة جيدة للخروج منها. إنها صورة شخص يحاول معرفة الأشياء."
-favicon = "images/favicon.png"
+favicon = "images/favicon.ico"
 logo = "images/logo.png"
 logo_width = "100px"
 main_section = "post"
