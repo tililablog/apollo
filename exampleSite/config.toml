@@ -8,6 +8,10 @@ title = "إيزا تيليلى"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "ادعمني"
+url = "soutenir/"
+weight = ""
+[[menu.main]]
 name = "كاتبة"
 url = "Auteure/"
 weight = 1
