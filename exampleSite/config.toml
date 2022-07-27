@@ -21,7 +21,7 @@ url = "ادعمني/"
 weight = 1
 [[menu.main]]
 name = "أنشر على موقعي"
-url = "publier/"
+url = "أنشر على موقعي/"
 weight = 4
 [[menu.main]]
 name = "كاتبة"
