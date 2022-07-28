@@ -7,26 +7,6 @@ theme = "apollo"
 title = "إيزا تيليلى"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-name = "أنشر على موقعي"
-url = "أنشر%20على%20موقعي/"
-weight = 4
-[[menu.main]]
-name = "أعلن على موقعي"
-url = "أعلن على موقعي/"
-weight = 3
-[[menu.main]]
-name = "الإتصال"
-url = "الإتصال/"
-weight = 5
-[[menu.main]]
-name = "ادعمني"
-url = "ادعمني/"
-weight = 1
-[[menu.main]]
-name = "كاتبة"
-url = "الكاتبة/"
-weight = 2
 [outputs]
 home = ["HTML", "RSS"]
 [params]
